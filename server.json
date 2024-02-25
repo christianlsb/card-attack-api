@@ -1,0 +1,519 @@
+{
+  "player": {
+    "id_player": 1,
+    "name": "Player1",
+    "credits": 0,
+    "decks": [
+      {
+        "id_deck": 1,
+        "name": "Deck1",
+        "cards": [],
+        "spells": []
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": 1,
+      "card": "Mago da Luz",
+      "power": 4210,
+      "tier": "A",
+      "hp": 4000,
+      "defense": 300,
+      "physical_attack": 200
+    },
+    {
+      "id": 2,
+      "card": "Guerreiro do Fogo",
+      "power": 5500,
+      "tier": "S",
+      "hp": 5000,
+      "defense": 400,
+      "physical_attack": 600
+    },
+    {
+      "id": 3,
+      "card": "Mago das Sombras",
+      "power": 4800,
+      "tier": "S",
+      "hp": 4500,
+      "defense": 350,
+      "physical_attack": 400
+    },
+    {
+      "id": 4,
+      "card": "Dragão da Tempestade",
+      "power": 6000,
+      "tier": "S",
+      "hp": 5500,
+      "defense": 500,
+      "physical_attack": 700
+    },
+    {
+      "id": 5,
+      "card": "Sacerdotisa da Lua",
+      "power": 4200,
+      "tier": "A",
+      "hp": 4000,
+      "defense": 300,
+      "physical_attack": 250
+    },
+    {
+      "id": 6,
+      "card": "Ladrão das Estrelas",
+      "power": 3800,
+      "tier": "A",
+      "hp": 3500,
+      "defense": 250,
+      "physical_attack": 300
+    },
+    {
+      "id": 7,
+      "card": "Titã da Terra",
+      "power": 7000,
+      "tier": "S",
+      "hp": 6500,
+      "defense": 600,
+      "physical_attack": 800
+    },
+    {
+      "id": 8,
+      "card": "Feiticeira do Vento",
+      "power": 4600,
+      "tier": "S",
+      "hp": 4300,
+      "defense": 350,
+      "physical_attack": 450
+    },
+    {
+      "id": 9,
+      "card": "Cavaleiro da Aurora",
+      "power": 5300,
+      "tier": "S",
+      "hp": 4800,
+      "defense": 400,
+      "physical_attack": 550
+    },
+    {
+      "id": 10,
+      "card": "Fênix da Destruição",
+      "power": 6200,
+      "tier": "S",
+      "hp": 5700,
+      "defense": 550,
+      "physical_attack": 750
+    },
+    {
+      "id": 11,
+      "card": "Necromante das Trevas",
+      "power": 4900,
+      "tier": "S",
+      "hp": 4600,
+      "defense": 400,
+      "physical_attack": 500
+    },
+    {
+      "id": 12,
+      "card": "Guardião da Floresta",
+      "power": 4800,
+      "tier": "S",
+      "hp": 4500,
+      "defense": 350,
+      "physical_attack": 450
+    },
+    {
+      "id": 13,
+      "card": "Dragão de Fogo Infernal",
+      "power": 6800,
+      "tier": "S",
+      "hp": 6300,
+      "defense": 600,
+      "physical_attack": 850
+    },
+    {
+      "id": 14,
+      "card": "Sereia das Profundezas",
+      "power": 4400,
+      "tier": "S",
+      "hp": 4100,
+      "defense": 300,
+      "physical_attack": 400
+    },
+    {
+      "id": 15,
+      "card": "Bruxo das Trevas",
+      "power": 5100,
+      "tier": "S",
+      "hp": 4800,
+      "defense": 400,
+      "physical_attack": 550
+    },
+    {
+      "id": 16,
+      "card": "Arqueiro Celestial",
+      "power": 4700,
+      "tier": "S",
+      "hp": 4400,
+      "defense": 350,
+      "physical_attack": 500
+    },
+    {
+      "id": 17,
+      "card": "Mestre das Ilusões",
+      "power": 5400,
+      "tier": "S",
+      "hp": 5000,
+      "defense": 450,
+      "physical_attack": 600
+    },
+    {
+      "id": 18,
+      "card": "Colosso de Pedra",
+      "power": 6600,
+      "tier": "S",
+      "hp": 6100,
+      "defense": 700,
+      "physical_attack": 900
+    },
+    {
+      "id": 19,
+      "card": "Fada da Floresta Encantada",
+      "power": 4000,
+      "tier": "A",
+      "hp": 3700,
+      "defense": 300,
+      "physical_attack": 200
+    },
+    {
+      "id": 20,
+      "card": "Sombra Sussurrante",
+      "power": 4200,
+      "tier": "A",
+      "hp": 3900,
+      "defense": 250,
+      "physical_attack": 300
+    },
+    {
+      "id": 21,
+      "card": "Dragão de Gelo",
+      "power": 5900,
+      "tier": "S",
+      "hp": 5400,
+      "defense": 500,
+      "physical_attack": 700
+    },
+    {
+      "id": 22,
+      "card": "Mestre das Tempestades",
+      "power": 5700,
+      "tier": "S",
+      "hp": 5200,
+      "defense": 450,
+      "physical_attack": 650
+    },
+    {
+      "id": 23,
+      "card": "Cavaleiro da Lua Crescente",
+      "power": 5100,
+      "tier": "S",
+      "hp": 4800,
+      "defense": 400,
+      "physical_attack": 550
+    },
+    {
+      "id": 24,
+      "card": "Guardião das Estrelas Cadentes",
+      "power": 4900,
+      "tier": "S",
+      "hp": 4600,
+      "defense": 350,
+      "physical_attack": 500
+    },
+    {
+      "id": 25,
+      "card": "Lobo da Noite",
+      "power": 4500,
+      "tier": "S",
+      "hp": 4200,
+      "defense": 300,
+      "physical_attack": 400
+    },
+    {
+      "id": 26,
+      "card": "Sábio das Marés",
+      "power": 5300,
+      "tier": "S",
+      "hp": 4900,
+      "defense": 450,
+      "physical_attack": 600
+    },
+    {
+      "id": 27,
+      "card": "Cerberus, o Guardião do Submundo",
+      "power": 6800,
+      "tier": "S",
+      "hp": 6300,
+      "defense": 600,
+      "physical_attack": 850
+    },
+    {
+      "id": 28,
+      "card": "Fênix Renascida",
+      "power": 6200,
+      "tier": "S",
+      "hp": 5700,
+      "defense": 550,
+      "physical_attack": 750
+    },
+    {
+      "id": 29,
+      "card": "Arcanjo da Justiça",
+      "power": 5800,
+      "tier": "S",
+      "hp": 5300,
+      "defense": 500,
+      "physical_attack": 700
+    },
+    {
+      "id": 30,
+      "card": "Dragão das Trevas",
+      "power": 6300,
+      "tier": "S",
+      "hp": 5800,
+      "defense": 550,
+      "physical_attack": 800
+    },
+    {
+      "id": 31,
+      "card": "Sacerdote da Luz",
+      "power": 4800,
+      "tier": "S",
+      "hp": 4500,
+      "defense": 350,
+      "physical_attack": 500
+    },
+    {
+      "id": 32,
+      "card": "Espectro do Crepúsculo",
+      "power": 5200,
+      "tier": "S",
+      "hp": 4900,
+      "defense": 400,
+      "physical_attack": 550
+    },
+    {
+      "id": 33,
+      "card": "Tritão da Maré Alta",
+      "power": 5500,
+      "tier": "S",
+      "hp": 5000,
+      "defense": 450,
+      "physical_attack": 600
+    },
+    {
+      "id": 34,
+      "card": "Necromante Sinistro",
+      "power": 4900,
+      "tier": "S",
+      "hp": 4600,
+      "defense": 400,
+      "physical_attack": 500
+    },
+    {
+      "id": 35,
+      "card": "Fênix Flamejante",
+      "power": 6100,
+      "tier": "S",
+      "hp": 5600,
+      "defense": 500,
+      "physical_attack": 750
+    },
+    {
+      "id": 36,
+      "card": "Guardião das Runas Antigas",
+      "power": 5600,
+      "tier": "S",
+      "hp": 5100,
+      "defense": 450,
+      "physical_attack": 650
+    },
+    {
+      "id": 37,
+      "card": "Grifo Real",
+      "power": 5400,
+      "tier": "S",
+      "hp": 5000,
+      "defense": 450,
+      "physical_attack": 600
+    },
+    {
+      "id": 38,
+      "card": "Lobisomem Selvagem",
+      "power": 4700,
+      "tier": "S",
+      "hp": 4400,
+      "defense": 350,
+      "physical_attack": 500
+    },
+    {
+      "id": 39,
+      "card": "Mestre dos Elementos",
+      "power": 5900,
+      "tier": "S",
+      "hp": 5400,
+      "defense": 500,
+      "physical_attack": 700
+    },
+    {
+      "id": 40,
+      "card": "Serpente Venenosa",
+      "power": 4500,
+      "tier": "S",
+      "hp": 4200,
+      "defense": 300,
+      "physical_attack": 450
+    },
+    {
+      "id": 41,
+      "card": "Espírito da Montanha",
+      "power": 6000,
+      "tier": "S",
+      "hp": 5500,
+      "defense": 600,
+      "physical_attack": 800
+    },
+    {
+      "id": 42,
+      "card": "Cavaleiro da Tempestade",
+      "power": 5200,
+      "tier": "S",
+      "hp": 4800,
+      "defense": 400,
+      "physical_attack": 550
+    },
+    {
+      "id": 43,
+      "card": "Vampiro Noturno",
+      "power": 5100,
+      "tier": "S",
+      "hp": 4800,
+      "defense": 400,
+      "physical_attack": 500
+    },
+    {
+      "id": 44,
+      "card": "Dragão de Cristal",
+      "power": 6400,
+      "tier": "S",
+      "hp": 5900,
+      "defense": 600,
+      "physical_attack": 850
+    },
+    {
+      "id": 45,
+      "card": "Sacerdotisa da Aurora",
+      "power": 4700,
+      "tier": "S",
+      "hp": 4400,
+      "defense": 350,
+      "physical_attack": 500
+    },
+    {
+      "id": 46,
+      "card": "Demônio Devorador de Almas",
+      "power": 6700,
+      "tier": "S",
+      "hp": 6200,
+      "defense": 600,
+      "physical_attack": 800
+    },
+    {
+      "id": 47,
+      "card": "Guardião da Chama Eterna",
+      "power": 5500,
+      "tier": "S",
+      "hp": 5000,
+      "defense": 450,
+      "physical_attack": 600
+    },
+    {
+      "id": 48,
+      "card": "Feiticeiro do Véu",
+      "power": 5300,
+      "tier": "S",
+      "hp": 4900,
+      "defense": 400,
+      "physical_attack": 550
+    },
+    {
+      "id": 49,
+      "card": "Dragão da Lua Cheia",
+      "power": 6200,
+      "tier": "S",
+      "hp": 5700,
+      "defense": 550,
+      "physical_attack": 750
+    },
+    {
+      "id": 50,
+      "card": "Fênix da Aurora",
+      "power": 5900,
+      "tier": "S",
+      "hp": 5400,
+      "defense": 500,
+      "physical_attack": 700
+    }
+  ],
+  "spells": [
+    { "id": 1, "spell": "Explosão Arcana", "type": "Ofensivo" },
+    { "id": 2, "spell": "Escudo de Proteção", "type": "Defensivo" },
+    { "id": 3, "spell": "Chama Eterna", "type": "Ofensivo" },
+    { "id": 4, "spell": "Barreira de Gelo", "type": "Defensivo" },
+    { "id": 5, "spell": "Relâmpago Fulminante", "type": "Ofensivo" },
+    { "id": 6, "spell": "Cura Total", "type": "Curativo" },
+    { "id": 7, "spell": "Invocação Elemental", "type": "Invocação" },
+    { "id": 8, "spell": "Ilusão Sedutora", "type": "Ilusório" },
+    { "id": 9, "spell": "Flecha Flamejante", "type": "Ofensivo" },
+    { "id": 10, "spell": "Invisibilidade", "type": "Ilusório" },
+    { "id": 11, "spell": "Escudo de Sombras", "type": "Defensivo" },
+    { "id": 12, "spell": "Teleporte Dimensional", "type": "Transporte" },
+    { "id": 13, "spell": "Maldição da Ruína", "type": "Ofensivo" },
+    { "id": 14, "spell": "Cura Rápida", "type": "Curativo" },
+    { "id": 15, "spell": "Tempestade de Raios", "type": "Ofensivo" },
+    { "id": 16, "spell": "Barreira de Energia", "type": "Defensivo" },
+    { "id": 17, "spell": "Ressurreição", "type": "Curativo" },
+    { "id": 18, "spell": "Fúria dos Ventos", "type": "Ofensivo" },
+    { "id": 19, "spell": "Contrafeitiço", "type": "Defensivo" },
+    { "id": 20, "spell": "Desintegração", "type": "Ofensivo" },
+    { "id": 21, "spell": "Eclipse Lunar", "type": "Ofensivo" },
+    { "id": 22, "spell": "Encanto Hipnótico", "type": "Ilusório" },
+    { "id": 23, "spell": "Barreira de Pedra", "type": "Defensivo" },
+    { "id": 24, "spell": "Invocação de Bestas", "type": "Invocação" },
+    { "id": 25, "spell": "Explosão de Gelo", "type": "Ofensivo" },
+    { "id": 26, "spell": "Escudo de Mana", "type": "Defensivo" },
+    { "id": 27, "spell": "Expansão de Mente", "type": "Utilitário" },
+    { "id": 28, "spell": "Luz Purificadora", "type": "Curativo" },
+    { "id": 29, "spell": "Labirinto de Ilusões", "type": "Ilusório" },
+    { "id": 30, "spell": "Chuva de Meteoros", "type": "Ofensivo" },
+    { "id": 31, "spell": "Barreira de Fogo", "type": "Defensivo" },
+    { "id": 32, "spell": "Roubo de Vida", "type": "Ofensivo" },
+    { "id": 33, "spell": "Renovação", "type": "Curativo" },
+    { "id": 34, "spell": "Tormenta de Areia", "type": "Ofensivo" },
+    { "id": 35, "spell": "Proteção Arcana", "type": "Defensivo" },
+    { "id": 36, "spell": "Criatura Fantasmagórica", "type": "Invocação" },
+    { "id": 37, "spell": "Cura Instantânea", "type": "Curativo" },
+    { "id": 38, "spell": "Explosão Solar", "type": "Ofensivo" },
+    { "id": 39, "spell": "Reflexão de Feitiços", "type": "Defensivo" },
+    { "id": 40, "spell": "Distorção Temporal", "type": "Utilitário" },
+    { "id": 41, "spell": "Névoa Venenosa", "type": "Ofensivo" },
+    { "id": 42, "spell": "Barreira de Luz", "type": "Defensivo" },
+    { "id": 43, "spell": "Transmutação", "type": "Ofensivo" },
+    { "id": 44, "spell": "Invocação de Espíritos", "type": "Invocação" },
+    { "id": 45, "spell": "Congelamento Instantâneo", "type": "Ofensivo" },
+    { "id": 46, "spell": "Círculo de Proteção", "type": "Defensivo" },
+    { "id": 47, "spell": "Cura em Massa", "type": "Curativo" },
+    { "id": 48, "spell": "Emissão de Escuridão", "type": "Ofensivo" },
+    { "id": 49, "spell": "Aura de Resistência", "type": "Defensivo" },
+    { "id": 50, "spell": "Telepatia", "type": "Utilitário" }
+  ]
+}
